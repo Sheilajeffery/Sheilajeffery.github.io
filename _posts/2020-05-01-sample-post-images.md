@@ -10,7 +10,7 @@ comments: true
 <figure>
 	<a href="/assets/img/friends.jpg">
 	<img src="/assets/img/friends.jpg"></a>
-	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="friends">Ana</a>.</figcaption>
+	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="friends"></a></figcaption>
 </figure>
 
-This is a poem about my childhood best friend.
+A poem about my childhood best friend, Ana.
