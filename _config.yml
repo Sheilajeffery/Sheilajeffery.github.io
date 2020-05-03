@@ -8,8 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/back1.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:               http://sheilajeffery.net
-base_url:           /project
+url:                http://sheilajeffery.net
 
 # Jekyll
 permalink:          /:title/
@@ -32,8 +31,8 @@ sass:
 # Social
 # if you don't have any of social below, comment the line.
 #email:
-facebook:           littlemrsjeffery
-github-url:         littlemrsjeffery
+#facebook:           littlemrsjeffery
+#github-url:         littlemrsjeffery
 instagram:          littlemrsjeffery
 
 # Gems
