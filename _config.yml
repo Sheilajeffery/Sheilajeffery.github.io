@@ -3,7 +3,6 @@ title:              sheila s.j.
 bio:                'Poetry blog'
 description:        "A poetry blog"
 locale:             en_UK
-baseurl: "" # the subpath of your site, e.g. /blog
 url:    http://sheilajeffery.net # the base hostname & protocol for your site
 
 # Comments
@@ -16,7 +15,7 @@ instagram:          littlemrsjeffery
 github:             default
 
 # personal
-email:              siegel.sheila@gmail.com # receive free emails for your contact submissions via Slapform.com
+email:              "some email address" # receive free emails for your contact submissions via Slapform.com
 
 # Other
 background_image:   /images/back1.jpg
