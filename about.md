@@ -1,27 +1,36 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+title: About me
+description: Poetry is ...
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## About our Site
+## About
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/sheila.jpg" | absolute_url }}" alt="" /></span>
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+<h2>Nichita Stănescu</h2>
+  <p> Un poet nu poate fi mai bun decât alt poet. Un poet poate fi mai bun decât sine însuși sau mai slab decât sine însuși.</p>
+  <p>Îndrăgostiții sunt pietoni ai aerului.</p>
+  <p>Dacă timpul ar fi avut frunze, ce toamnă!</p>
+  <p>A avea un prieten este mai vital decât a avea un înger.</p>
+  <p>Muzica este un răspuns căruia nu i s-a pus nicio întrebare.</p>
+  <div></div>
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
-
-### Content is Imortant
-<div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
-</div>
-
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
-
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+  <p>Spune-mi, dacă te-aș prinde-ntr-o zi și ți-aș săruta talpa piciorului, nu-i așa că ai schiopăta puțin, după aceea, de teama să nu-mi strivești sărutul?</p>
+  <p>Prietenii mei nu sunt mulți, dar sunt nenumărați.</p>
+  <p>Poezia este o lacrimă care plânge cu ochii.</p>
+  <p>Totul e simplu, atât de simplu, încât devine de neînţeles.</p>
+  <p>Suntem ceea ce iubim.</p>
+  <p>Pe pământ, tot ce există are nevoie, din când în când, să plângă.</p>
+  <p>Sunt un om viu. Nimic din ce-i omenesc nu mi-e străin.</p>
+  <p>Dacă florile și-ar dărui oameni la fel cum oamenii își oferă flori, de unde ar fi tăiați oamenii?</p>
+  <p>Eu nu sunt altceva decât o pata de sânge care vorbește.</p>
+  <p>Oamenii sunt păsări cu aripile crescute înlăuntru.</p>
+  <p>Poetul, ca și soldatul, nu are viață personală.</p>
+  <p>O patrie fără de nume nu este o patrie. Limba română este patria mea. De aceea, pentru mine, muntele munte se zice, de aceea, pentru mine, iarba iarbă se spune, de aceea, pentru mine, izvorul izvorăşte, de aceea, pentru mine, viaţa se trăieşte.</p>
+  <p>Tu să nu te tragi cu mine de şireturi, întrucât eu mă port desculţ.</p>
+  <p>Să punem şapte coroane nu pe capul poetului, ci pe verbul versului.</p>
+  <p>Copacii ne văd pe noi, iar nu noi pe ei.</p>

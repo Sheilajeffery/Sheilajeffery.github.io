@@ -4,7 +4,7 @@ bio:                'Poetry blog'
 description:        "A poetry blog"
 locale:             en_UK
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://sheilajeffery.net" # the base hostname & protocol for your site
+url:    http://sheilajeffery.net # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
