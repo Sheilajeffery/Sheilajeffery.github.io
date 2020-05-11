@@ -9,7 +9,7 @@ sitemap:
 ---
 ## About
 
-<span class="image left"><img src="{{ "/images/sheila.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/sheila.jpg" | relative_url }}" alt="" /></span>
 
 <h2>Nichita Stănescu</h2>
   <p> Un poet nu poate fi mai bun decât alt poet. Un poet poate fi mai bun decât sine însuși sau mai slab decât sine însuși.</p>
