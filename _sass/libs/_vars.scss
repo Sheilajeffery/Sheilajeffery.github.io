@@ -1,0 +1,66 @@
+// Misc.
+	$misc: (
+		z-index-base:		10000
+	);
+
+// Duration.
+	$duration: (
+		menu:				0.5s,
+		transition:			0.2s
+	);
+
+// Size.
+	$size: (
+		element-height:		3rem,
+		element-margin:		2rem,
+		padding:			2rem,
+		wrapper:			72rem
+	);
+
+// Font.
+	$font: (
+		family:				('Merriweather', Georgia, serif),
+		family-heading:		('Source Sans Pro', Helvetica, sans-serif),
+		family-fixed:		('Courier New', monospace),
+		weight:				300,
+		weight-bold:		600,
+		weight-heading:		900
+	);
+
+	$typewriter_font: (
+		family: ('Special Elite')
+		);
+
+// Palette.
+	$palette: (
+		wrapper-bg:		#2d2131,
+
+		bg:					#ffffff,
+		fg:					#2d2131,
+		fg-bold:			#2d2131,
+		fg-light:			mix(#2d2131, #ffffff, 50%),
+		border:				mix(#dcdcdc, #ffffff, 50%),
+		border-bg:			rgba(#dcdcdc, 0.25),
+		accent:				#916991,
+
+		alt: (
+			bg:				#f5f5f5,
+			fg:				#7d7181,
+			fg-bold:		#7d7181,
+			fg-light:		mix(#7d7181, #f5f5f5, 50%),
+			border:			mix(#dcdcdc, #f5f5f5, 75%),
+			border-bg:		rgba(#dcdcdc, 0.5),
+			accent:			#916991,
+		),
+
+		invert: (
+			bg:				#291e2d,
+			bg-alt:			#291e2d,
+			fg:				#ffffff,
+			fg-bold:		#ffffff,
+			fg-light:		rgba(#ffffff, 0.5),
+			border:			#ffffff,
+			border-bg:		rgba(#ffffff,0.075),
+			accent:			#916991,
+		),
+	);
