@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About
 description: Poetry is ...
 sitemap:
     priority: 0.7
