@@ -14,8 +14,7 @@
 
 		img {
 			border-radius: _size(border-radius);
-
-		}
+			}
 
 		&.left,
 		&.right {
@@ -61,8 +60,14 @@
 				margin-top: 0;
 			}
 
+			&.seventy-width {
+				img {
+					width: 70%;
+				}
+			}
+
 			img {
-				width: 70%;
+			width: 100%;
 			}
 		}
 
