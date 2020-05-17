@@ -62,10 +62,6 @@ sitemap:
   										<h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
   									</header>
   									<a href="{{ post.url | relative_url }}" class="image fit"><img src="{{ post.image | relative_url }}" alt="" /></a>
-  									<p>{{ post.excerpt }}</p>
-  									<ul class="actions">
-  										<li><a href="{{ post.url | relative_url }}" class="button">Read</a></li>
-  									</ul>
   								</article>
                 {% endfor %}
 							</section>
