@@ -16,7 +16,7 @@ github:             default
 
 # personal
 email:              "siegel.sheila@gmail.com" # receive free emails for your contact submissions via Slapform.com
-
+location:           "UK"
 # Other
 background_image:   /images/back1.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
