@@ -12,7 +12,7 @@ sitemap:
 <span class="image right"><img src="{{ "/images/about_sheila.jpg" | relative_url }}" alt="" /></span>
 
 <header>
-  <p>"Most days I feel like a child with an old soul."</p>
+  <p>Most days I feel like a child with an old soul.</p>
 </header>
 
 <p>I am Sheila.</p>
