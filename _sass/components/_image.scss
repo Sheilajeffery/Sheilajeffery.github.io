@@ -59,11 +59,20 @@
 			&:first-child {
 				margin-top: 0;
 			}
-			
+
 			img {
 			width: 100%;
 			}
 		}
+
+		&.featured-img {
+			margin: (_size(element-margin) * 2) 0;
+			width: 50%;
+			img {
+			width: 100%;
+			}
+		}
+
 
 		@include breakpoint(small) {
 			&.fit {
